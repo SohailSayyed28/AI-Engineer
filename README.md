@@ -8,4 +8,4 @@ I've decided short term plans are more effective and achievable when compared to
 
 So From now on we'll be dividing our learning into batches.
 
-Let's start the first batch to become a Machine Learning guy. 
+Let's start the first batch to become a Machine Learner. 
