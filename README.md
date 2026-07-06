@@ -6,4 +6,4 @@ This is going great, in the next 2 months i'll be good at  Machine Learning.
 
 I've decided short term plans are more effective and achievable when compared to long term plans.
 
-Working on Python Basics 2
+Working on Python and API's currently
